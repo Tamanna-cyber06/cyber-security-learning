@@ -21,6 +21,6 @@ This repository contains my learning progress in Cyber Security.
 ## Mini Project
 - Web Security Awareness & Basic Vulnerability Analysis
 
-- Learning Focus
+## Learning Focus
 -  Web Application Security fundamentals
    OWASP Top 10 vulnerabilities
